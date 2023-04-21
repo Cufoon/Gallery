@@ -8,6 +8,7 @@ plugins {
 android {
     namespace = "cufoon.gallery.android"
     compileSdk = 33
+    buildToolsVersion = "33.0.2"
 
     defaultConfig {
         applicationId = "cufoon.gallery.android"

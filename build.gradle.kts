@@ -1,5 +1,5 @@
 ext {
-    extra["composeVersion"] = "1.3.3"
+    extra["composeVersion"] = "1.4.1"
 }
 
 plugins {
